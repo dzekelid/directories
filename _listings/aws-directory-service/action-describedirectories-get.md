@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeDirectories&k=1:
+  /?Action=DescribeDirectories:
     get:
       summary: ' Describe Directories '
       description: Obtains information about the directories that belong to this account
