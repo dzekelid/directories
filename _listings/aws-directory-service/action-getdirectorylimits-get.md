@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetDirectoryLimits&k=1:
+  /?Action=GetDirectoryLimits:
     get:
       summary: ' Get Directory Limits '
       description: Obtains directory limit information for the current region
