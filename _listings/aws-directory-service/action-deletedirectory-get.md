@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteDirectory&k=1:
+  /?Action=DeleteDirectory:
     get:
       summary: ' Delete Directory '
       description: Deletes an AWS Directory Service directory
