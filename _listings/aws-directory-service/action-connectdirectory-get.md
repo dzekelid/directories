@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ConnectDirectory&k=1:
+  /?Action=ConnectDirectory:
     get:
       summary: ' Connect Directory '
       description: Creates an AD Connector to connect to an on-premises directory
