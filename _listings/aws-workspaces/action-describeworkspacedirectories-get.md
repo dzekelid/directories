@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DescribeWorkspaceDirectories&k=1:
+  /?Action=DescribeWorkspaceDirectories:
     get:
       summary: ' Describe Workspace Directories '
       description: Retrieves information about the AWS Directory Service directories
