@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=CreateDirectory&k=1:
+  /?Action=CreateDirectory:
     get:
       summary: ' Create Directory '
       description: Creates a Simple AD directory
