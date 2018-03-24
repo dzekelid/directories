@@ -34,7 +34,7 @@ apis:
   tags: Directories
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-createdirectory-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-deletedirectory-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/ds/index.html
