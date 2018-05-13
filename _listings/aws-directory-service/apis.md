@@ -35,15 +35,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-getdirectorylimits-get.md
-- name: AWS Directory Service API Connect Directory
-  description: Creates an AD Connector to connect to an on-premises directory.
+- name: AWS Directory Service API Create Directory
+  description: Creates a Simple AD directory.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
   humanURL: https://aws.amazon.com/directoryservice/
   baseURL: http:://{host}//
   tags: Directories
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-connectdirectory-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-createdirectory-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/ds/index.html
