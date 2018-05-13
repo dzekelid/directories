@@ -32,7 +32,34 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-workspaces/action-describeworkspacedirectories-get.md
+- name: AWS WorkSpaces Service API Describe Workspace Directories
+  description: Retrieves information about the AWS Directory Service directories in
+    the region that are registered with Amazon WorkSpaces and are available to your
+    account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkSpaces.png
+  humanURL: https://aws.amazon.com/workspaces/
+  baseURL: http:://{host}//
+  tags: Directories
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-workspaces/action-describeworkspacedirectories-get.md
 x-common:
+- type: x-documentation
+  url: http://docs.aws.amazon.com/workspaces/latest/api/api-reference.html
+- type: x-faq
+  url: https://aws.amazon.com/workspaces/faqs/
+- type: x-forum
+  url: https://forums.aws.amazon.com/forum.jspa?forumID=164
+- type: x-pricing
+  url: https://aws.amazon.com/workspaces/pricing/
+- type: x-testimonials
+  url: https://aws.amazon.com/workspaces/testimonials/
+- type: x-webinars
+  url: https://aws.amazon.com/workspaces/resources/#webinars
+- type: x-website
+  url: https://aws.amazon.com/workspaces/
+- type: x-white-papers
+  url: https://aws.amazon.com/workspaces/resources/#whitepapers
 - type: x-documentation
   url: http://docs.aws.amazon.com/workspaces/latest/api/api-reference.html
 - type: x-faq
