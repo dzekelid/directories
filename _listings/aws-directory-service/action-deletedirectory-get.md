@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Directory Service API
+  title: AWS Directory Service API Delete Directory
   version: 1.0.0
+  description: Deletes an AWS Directory Service directory.
 schemes:
 - http
 produces:
