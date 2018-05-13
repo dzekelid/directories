@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS WorkSpaces Service API
+  title: AWS WorkSpaces Service API Describe Workspace Directories
   version: 1.0.0
+  description: Retrieves information about the AWS Directory Service directories in
+    the region that are registered with Amazon WorkSpaces and are available to your
+    account.
 schemes:
 - http
 produces:
