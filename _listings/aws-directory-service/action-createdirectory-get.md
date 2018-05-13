@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Directory Service API
+  title: AWS Directory Service API Create Directory
   version: 1.0.0
+  description: Creates a Simple AD directory.
 schemes:
 - http
 produces:
