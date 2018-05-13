@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Directory Service API
+  title: AWS Directory Service API Connect Directory
   version: 1.0.0
+  description: Creates an AD Connector to connect to an on-premises directory.
 schemes:
 - http
 produces:
