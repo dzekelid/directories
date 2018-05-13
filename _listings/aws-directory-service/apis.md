@@ -35,15 +35,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-getdirectorylimits-get.md
-- name: AWS Directory Service API Delete Directory
-  description: Deletes an AWS Directory Service directory.
+- name: AWS Directory Service API Describe Directories
+  description: Obtains information about the directories that belong to this account.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
   humanURL: https://aws.amazon.com/directoryservice/
   baseURL: http:://{host}//
   tags: Directories
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-deletedirectory-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/action-describedirectories-get.md
 x-common:
 - type: x-command-line-interface
   url: http://docs.aws.amazon.com/cli/latest/reference/ds/index.html
