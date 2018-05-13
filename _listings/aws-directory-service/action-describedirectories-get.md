@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Directory Service API
+  title: AWS Directory Service API Describe Directories
   version: 1.0.0
+  description: Obtains information about the directories that belong to this account.
 schemes:
 - http
 produces:
