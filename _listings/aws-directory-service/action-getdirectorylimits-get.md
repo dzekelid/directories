@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Directory Service API
+  title: AWS Directory Service API Get Directory Limits
   version: 1.0.0
+  description: Obtains directory limit information for the current region.
 schemes:
 - http
 produces:
