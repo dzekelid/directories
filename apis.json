@@ -1,0 +1,280 @@
+{
+	"name": "Streadata.io API Gallery - Directories",
+	"description": "This is a repository of directories APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/directories.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://directories.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "APIs.io",
+			"x-api-slug": "apis-io",
+			"description": "Find all the APIs you need to build your successful projects. APIs.io is the first search engine for APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/95-apis-io.jpg",
+			"humanURL": "http://apis.io/",
+			"baseURL": "http://apis.io/api/",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/apis-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AngelList",
+			"x-api-slug": "angellist",
+			"description": "AngelList is where the world meets startups. Find a great startup job, invest in a startup, or raise money",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/339-angellist.jpg",
+			"humanURL": "http://angel.co",
+			"baseURL": "https://api.angel.co//1/",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/angellist/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SensisAPI",
+			"x-api-slug": "sensisapi",
+			"description": "Founded in 1985, Sensis Corporation is a global provider of air defense, air traffic control, airline and airport operations management, and data integration and distribution. The company serves a global client base and is actively involved in industry organizations and working groups worldwide, helping to address critical issues and develop innovative, real-world solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/923_logo.jpg",
+			"humanURL": "http://sensis.com.au/",
+			"baseURL": "https:///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/sensisapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "University of Washington",
+			"x-api-slug": "university-of-washington",
+			"description": "The UW is a leading research university with three campuses, a world-class academic medical center and extensive continuing education programs. The students, faculty and researchers who come here are driven to turn ideas into actions. They transform ou...",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.washington.edu/",
+			"baseURL": "https:///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/university-of-washington/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "University of Michigan",
+			"x-api-slug": "university-of-michigan",
+			"description": "A top-ranked public university, the University of Michigan has a tradition of excellence in research, learning and teaching, sports and the arts, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1635-university-of-michigan.jpg",
+			"humanURL": "http://umich.edu/",
+			"baseURL": "https:///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/university-of-michigan/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Truecaller",
+			"x-api-slug": "truecaller",
+			"description": "Truecaller is transforming todays phonebook to make it more intelligent and useful.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2164-truecaller.jpg",
+			"humanURL": "https://dev.truecaller.com",
+			"baseURL": "https:///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/truecaller/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Directory Service",
+			"x-api-slug": "aws-directory-service",
+			"description": "AWS Directory Service for Microsoft Active Directory (Enterprise Edition), also known as AWS Microsoft AD, enables your directory-aware workloads and AWS resources to use managed Active Directory in the AWS Cloud. The Microsoft AD service is built on actual Microsoft Active Directory and does not require you to synchronize or replicate data from your existing Active Directory to the cloud. You can use standard Active Directory administration tools and take advantage of built-in Active Directory features such as Group Policy, trusts, and single sign-on. With Microsoft AD, you can easily joinAmazon EC2andAmazon RDS for SQL Serverinstances to a domain, and useAWS Enterprise IT applicationssuch asAmazon WorkSpaceswith Active Directory users and groups.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png",
+			"humanURL": "https://aws.amazon.com/directoryservice/",
+			"baseURL": ":///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS WorkSpaces",
+			"x-api-slug": "aws-workspaces",
+			"description": "Amazon WorkSpaces is a fully managed, secure desktop computing service which runs on the AWS cloud. Amazon WorkSpaces allows you to easily provision cloud-based virtual desktops and provide your users access to the documents, applications, and resources they need from any supported device, including Windows and Mac computers, Chromebooks, iPads, Fire tablets, Android tablets, and Chrome and Firefox web browsers. With just a few clicks in the AWS Management Console, you can deploy high-quality cloud desktops for any number of users. With Amazon WorkSpaces, you pay either monthly or hourly just for the Amazon WorkSpaces you launch, which helps you save money when compared to traditional desktops and on-premises Virtual Desktop Infrastructure (VDI) solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkSpaces.png",
+			"humanURL": "https://aws.amazon.com/workspaces/",
+			"baseURL": ":///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-workspaces/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Doubleclick",
+			"x-api-slug": "google-doubleclick",
+			"description": "The Ad Exchange Buyer REST API allows your Real-Time Bidding application to access and update account information and to submit creatives. The API also allows an application (whether it does static bidding or real-time bidding) to discover direct deals that sellers make available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png",
+			"humanURL": "https://www.doubleclickbygoogle.com/",
+			"baseURL": "https:///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Microsoft Graph",
+			"x-api-slug": "microsoft-graph",
+			"description": "Microsoft Graph exposes multiple APIs from Office 365 and other Microsoft cloud services through a single endpoint: https://graph.microsoft.com. Microsoft Graph simplifies queries that would otherwise be more complex. You can use Microsoft Graph to: Access data from multiple Microsoft cloud services, including Azure Active Directory, Exchange Online as part of Office 365, SharePoint, OneDrive, OneNote, and Planner. Navigate between entities and relationships. Access intelligence and insights from the Microsoft cloud (for commercial users).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png",
+			"humanURL": "https://developer.microsoft.com/en-us/graph/",
+			"baseURL": "https://graph.microsoft.com//",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/microsoft-graph/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RingCentral",
+			"x-api-slug": "ringcentral",
+			"description": "RingCentral, Inc. (NYSE: RNG) is a global provider of cloud enterprise unified communications and collaboration solutions. More flexible and cost-effective than legacy on-premise systems, RingCentral empowers today&rsquo;s mobile and distributed workforces to be connected anywhere and on any device through voice, video, team messaging, collaboration, SMS, conferencing, online meetings, contact center, and fax. RingCentral provides an open platform that integrates with today&rsquo;s leading business apps while giving customers the flexibility to customize their own workflows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg",
+			"humanURL": "http://www.ringcentral.com",
+			"baseURL": "https://platform.ringcentral.com//",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Blockchain Workbench",
+			"x-api-slug": "azure-blockchain-workbench",
+			"description": "Azure Blockchain Workbench helps organizations build rich, integrated multi-party blockchain applications quickly and easily. Azure Blockchain Workbench REST API provides developers and information workers a way to integrate to blockchain applications. For example, a developer can use the REST API to enable IoT devices to send data to a blockchain application. Or, an information worker can use the REST API and Power BI to create visualization of blockchain data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-blockchain.png",
+			"humanURL": "https://docs.microsoft.com/en-us/rest/api/azure-blockchain-workbench/",
+			"baseURL": "https:////",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/azure-blockchain-workbench/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Directories",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Directories",
+	"include": [
+		{
+			"name": "APIs.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/apis-io/apis.yaml"
+		},
+		{
+			"name": "AngelList",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/angellist/apis.yaml"
+		},
+		{
+			"name": "SensisAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/sensisapi/apis.yaml"
+		},
+		{
+			"name": "University of Washington",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/university-of-washington/apis.yaml"
+		},
+		{
+			"name": "University of Michigan",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/university-of-michigan/apis.yaml"
+		},
+		{
+			"name": "Truecaller",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/truecaller/apis.yaml"
+		},
+		{
+			"name": "AWS Directory Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-directory-service/apis.yaml"
+		},
+		{
+			"name": "AWS WorkSpaces",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/aws-workspaces/apis.yaml"
+		},
+		{
+			"name": "Google Doubleclick",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/apis.yaml"
+		},
+		{
+			"name": "Microsoft Graph",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/microsoft-graph/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "RingCentral",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/apis.yaml"
+		},
+		{
+			"name": "Azure Blockchain Workbench",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/azure-blockchain-workbench/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/apis.yaml"
+		}
+	]
+}

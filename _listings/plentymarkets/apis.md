@@ -11,11 +11,221 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Directories
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: plentymarkets REST-API - Get all listing market directories
+  x-api-slug: restlistingsmarketsdirectories-get
+  description: Gets all listing market directories.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectories-get-openapi.md
+- name: plentymarkets REST-API - Upload a document to contact directory
+  x-api-slug: restaccountscontactscontactiddocument-post
+  description: Upload a document to contact directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restaccountscontactscontactiddocument-post-openapi.md
+- name: plentymarkets REST-API - Create listing market directory
+  x-api-slug: restlistingsmarketsdirectories-post
+  description: Creates a listing market directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectories-post-openapi.md
+- name: plentymarkets REST-API - Delete listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-delete
+  description: Deletes a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-delete-openapi.md
+- name: plentymarkets REST-API - Get a listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-get
+  description: Gets a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-get-openapi.md
+- name: plentymarkets REST-API - Update listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-put
+  description: Updates a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-put-openapi.md
+- name: plentymarkets REST-API - Upload a document to contact directory
+  x-api-slug: restaccountscontactscontactiddocument-post
+  description: Upload a document to contact directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restaccountscontactscontactiddocument-post-openapi.md
+- name: plentymarkets REST-API - Upload a document to contact directory
+  x-api-slug: restaccountscontactscontactiddocument-post
+  description: Upload a document to contact directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restaccountscontactscontactiddocument-post-openapi.md
+- name: plentymarkets REST-API - Create listing market directory
+  x-api-slug: restlistingsmarketsdirectories-post
+  description: Creates a listing market directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectories-post-openapi.md
+- name: plentymarkets REST-API - Create listing market directory
+  x-api-slug: restlistingsmarketsdirectories-post
+  description: Creates a listing market directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectories-post-openapi.md
+- name: plentymarkets REST-API - Delete listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-delete
+  description: Deletes a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-delete-openapi.md
+- name: plentymarkets REST-API - Delete listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-delete
+  description: Deletes a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-delete-openapi.md
+- name: plentymarkets REST-API - Get a listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-get
+  description: Gets a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-get-openapi.md
+- name: plentymarkets REST-API - Get a listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-get
+  description: Gets a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-get-openapi.md
+- name: plentymarkets REST-API - Update listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-put
+  description: Updates a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-put-openapi.md
+- name: plentymarkets REST-API - Update listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-put
+  description: Updates a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-put-openapi.md
+- name: plentymarkets REST-API - Update listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-put
+  description: Updates a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-put-openapi.md
+- name: plentymarkets REST-API - Get a listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-get
+  description: Gets a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-get-openapi.md
+- name: plentymarkets REST-API - Delete listing market directory
+  x-api-slug: restlistingsmarketsdirectoriesid-delete
+  description: Deletes a listing market directory by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectoriesid-delete-openapi.md
+- name: plentymarkets REST-API - Create listing market directory
+  x-api-slug: restlistingsmarketsdirectories-post
+  description: Creates a listing market directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restlistingsmarketsdirectories-post-openapi.md
+- name: plentymarkets REST-API - Upload a document to contact directory
+  x-api-slug: restaccountscontactscontactiddocument-post
+  description: Upload a document to contact directory.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/plentymarkets/restaccountscontactscontactiddocument-post-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.plentymarkets.co.uk/?ActionCall=WebActionRSS&rrss_id=1

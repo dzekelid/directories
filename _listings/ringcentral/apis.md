@@ -12,11 +12,171 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-deve
 x-kinRank: "7"
 x-alexaRank: "7180"
 tags: Directories
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contacts
+  x-api-slug: restapiv1-0accountaccountiddirectorycontacts-get
+  description: |-
+    Returns contact information on corporate users of federated accounts. Please note: 1. User, DigitalUser, VirtualUser and FaxUser types are returned as User type. 2.ApplicationExtension type is not returned. 3. Only extensions in Enabled, Disabled and NotActivated state are returned.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontacts-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contact
+  x-api-slug: restapiv1-0accountaccountiddirectorycontactscontactid-get
+  description: |-
+    Returns contact information on a particular corporate user of a federated account.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontactscontactid-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contacts
+  x-api-slug: restapiv1-0accountaccountiddirectorycontacts-get
+  description: |-
+    Returns contact information on corporate users of federated accounts. Please note: 1. User, DigitalUser, VirtualUser and FaxUser types are returned as User type. 2.ApplicationExtension type is not returned. 3. Only extensions in Enabled, Disabled and NotActivated state are returned.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontacts-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contacts
+  x-api-slug: restapiv1-0accountaccountiddirectorycontacts-get
+  description: |-
+    Returns contact information on corporate users of federated accounts. Please note: 1. User, DigitalUser, VirtualUser and FaxUser types are returned as User type. 2.ApplicationExtension type is not returned. 3. Only extensions in Enabled, Disabled and NotActivated state are returned.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontacts-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contact
+  x-api-slug: restapiv1-0accountaccountiddirectorycontactscontactid-get
+  description: |-
+    Returns contact information on a particular corporate user of a federated account.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontactscontactid-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contact
+  x-api-slug: restapiv1-0accountaccountiddirectorycontactscontactid-get
+  description: |-
+    Returns contact information on a particular corporate user of a federated account.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontactscontactid-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contact
+  x-api-slug: restapiv1-0accountaccountiddirectorycontactscontactid-get
+  description: |-
+    Returns contact information on a particular corporate user of a federated account.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontactscontactid-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contact
+  x-api-slug: restapiv1-0accountaccountiddirectorycontactscontactid-get
+  description: |-
+    Returns contact information on a particular corporate user of a federated account.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontactscontactid-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contacts
+  x-api-slug: restapiv1-0accountaccountiddirectorycontacts-get
+  description: |-
+    Returns contact information on corporate users of federated accounts. Please note: 1. User, DigitalUser, VirtualUser and FaxUser types are returned as User type. 2.ApplicationExtension type is not returned. 3. Only extensions in Enabled, Disabled and NotActivated state are returned.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontacts-get-openapi.md
+- name: RingCentral Connect Platform API Explorer - Get Corporate Directory Contacts
+  x-api-slug: restapiv1-0accountaccountiddirectorycontacts-get
+  description: |-
+    Returns contact information on corporate users of federated accounts. Please note: 1. User, DigitalUser, VirtualUser and FaxUser types are returned as User type. 2.ApplicationExtension type is not returned. 3. Only extensions in Enabled, Disabled and NotActivated state are returned.
+    App Permission
+    ReadAccounts
+    Usage Plan Group
+    Medium
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg
+  humanURL: http://www.ringcentral.com
+  baseURL: https://platform.ringcentral.com//
+  tags: Telecommunications, ISP, Voice, Video Conferencing, Webinars, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/ringcentral/restapiv1-0accountaccountiddirectorycontacts-get-openapi.md
 x-common:
 - type: x-blog
   url: https://medium.com/ringcentral-developers

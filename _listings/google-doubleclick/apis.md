@@ -9,11 +9,113 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Directories
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Google Doubleclick Merged API - Get Directory Sites
+  x-api-slug: userprofilesprofileiddirectorysites-get
+  description: Retrieves a list of directory sites, possibly filtered. This method
+    supports paging.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysites-get-openapi.md
+- name: Google Doubleclick Merged API - Insert Directory Site
+  x-api-slug: userprofilesprofileiddirectorysites-post
+  description: Inserts a new directory site.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysites-post-openapi.md
+- name: Google Doubleclick Merged API - Get Directory Site
+  x-api-slug: userprofilesprofileiddirectorysitesid-get
+  description: Gets one directory site by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysitesid-get-openapi.md
+- name: Google Doubleclick Merged API - Get Directory Sites
+  x-api-slug: userprofilesprofileiddirectorysites-get
+  description: Retrieves a list of directory sites, possibly filtered. This method
+    supports paging.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysites-get-openapi.md
+- name: Google Doubleclick Merged API - Insert Directory Site
+  x-api-slug: userprofilesprofileiddirectorysites-post
+  description: Inserts a new directory site.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysites-post-openapi.md
+- name: Google Doubleclick Merged API - Get Directory Site
+  x-api-slug: userprofilesprofileiddirectorysitesid-get
+  description: Gets one directory site by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysitesid-get-openapi.md
+- name: Google Doubleclick Merged API - Get Directory Sites
+  x-api-slug: userprofilesprofileiddirectorysites-get
+  description: Retrieves a list of directory sites, possibly filtered. This method
+    supports paging.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysites-get-openapi.md
+- name: Google Doubleclick Merged API - Insert Directory Site
+  x-api-slug: userprofilesprofileiddirectorysites-post
+  description: Inserts a new directory site.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysites-post-openapi.md
+- name: Google Doubleclick Merged API - Get Directory Site
+  x-api-slug: userprofilesprofileiddirectorysitesid-get
+  description: Gets one directory site by ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
+  humanURL: https://www.doubleclickbygoogle.com/
+  baseURL: https:///
+  tags: Advertising, Google APIs, Stack Network, API Service Provider, API Provider,
+    Profiles, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/directories/master/_listings/google-doubleclick/userprofilesprofileiddirectorysitesid-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://google.dataflow.api.gallery.streamdata.io
